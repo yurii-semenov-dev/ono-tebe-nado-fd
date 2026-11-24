@@ -1,2 +1,2 @@
 # Оно тебе надо
-Проектная работа по верстке.
+https://github.com/yurii-semenov-dev/ono-tebe-nado-fd
